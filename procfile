@@ -1,2 +1,3 @@
-web: gunicorn meu_site.bancoweb:app
+web: gunicorn bancoweb:app
+
 
